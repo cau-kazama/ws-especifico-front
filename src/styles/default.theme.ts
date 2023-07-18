@@ -1,14 +1,9 @@
 export const defaultTheme = {
     colors: {
         primary: {
-            light: 'hsl(205 ,74%, 65%)',
-            main: 'hsl(205, 67%, 45%)',
-            dark: 'hsl(205, 87%, 29%)'
-        },
-        secondary: {
-            light: 'hsl(174, 96%, 78%)',
-            main: 'hsl(180, 77%, 47%)',
-            dark: 'hsl(186, 91%, 29%)'
+            light: '#E9E5FB',
+            main: '#BAADF1',
+            dark: '#847AAE'
         }
     },
     space: [4, 8, 12, 16, 24, 32, 48, 64, 96, 128, 192, 256],
